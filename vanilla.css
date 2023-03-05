@@ -1,0 +1,72 @@
+.container{
+  height: 100vh;
+  width:100vw;
+  border:1px solid black;
+  background-color: #f6d9d5;
+}
+.container2{
+  height:15vh;
+  width:99.9vw;
+  background-color: #dde6d5;
+  margin:auto;
+  padding-top:2.5vh;
+  padding-left:1.5vw;
+  padding-right:1.5vw;
+}
+.container3{
+  height: 84.9vh;
+  width:99.9vw;
+  background-color: #f6d9d5;
+}
+.sage-color{
+  color: #a3b899;
+}
+.dgr-color{
+  color: #667b68
+}
+.center{
+  text-align: center;
+}
+.Logo{
+  height:.001vh;
+  width:350px;
+  background-color: #dde6d5;
+  margin:auto;
+  text-align:center;
+  font-size: 25px;
+  font-family: 'Raleway', sans-serif;
+}
+.DA{
+  height:10vh;
+  width: 75px;
+  border:2px solid white;
+  border-radius: 50%;
+  background-color: #667b68;
+  text-align: center;
+  padding-top: 2.5vh;
+  font-size: 25px;
+  font-family: 'Raleway', sans-serif;
+  float:left;
+}
+.Refresh{
+  height:10vh;
+  width:75px;
+  border:2px solid white;
+  border-radius: 50%;
+  background-color: #667b68;
+  float:right;
+  text-align:center;
+  padding-top:3vh;
+  font-size:25px;
+}
+/* .affirmations{
+  height: 60vh;
+  width:30vw;
+  background-color: #667b68;
+  border:2px solid white;
+} */
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
